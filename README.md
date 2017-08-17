@@ -8,7 +8,7 @@ How to run:
 
 Client: npm run start
 Server: after running your mongodb -> npm run dev
-
+  
 Server's running locally at localhost:3090
 Client's running locally at localhost:8080
 
