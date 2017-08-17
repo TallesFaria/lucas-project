@@ -1,5 +1,5 @@
 {
-  "name": "client/server application",
+  "name": "client server application",
   "version": "1.0.0",
   "description": "Simple react + mongodb application",
   "main": "index.js",
