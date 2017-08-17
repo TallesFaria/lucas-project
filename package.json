@@ -4,8 +4,8 @@
   "description": "Simple react + mongodb application",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node ./lucas-loja/node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "start": "nodemon index.js",
+    "dev": "node ./lucas-loja/node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "postinstall": "webpack -p",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
